@@ -24,8 +24,4 @@ module "eks" {
     tags = {
         Environment = "prod"
     }
-}hi
-
-Detaching internet gateway unsuccessful
-igw-04396279c5717aa07 / flipkart-vpc-prod
-Network vpc-05ee0a1a5f89e25f4 has some mapped public address(es). Please unmap those public address(es) before detaching the gateway.
+}
